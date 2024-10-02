@@ -1,5 +1,5 @@
 # Ashutosh : The DevOps Diplomat 👨‍💻🌐
-====================================
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=600&lines=Ashutosh+Kumar+Sah;DevOps+Engineer+and+Cloud+Enthusiast;3x+Microsoft+Certified+Professional;Oracle+Cloud+Certified+Fundamental;Love+Traveling+❤️;Welcome+to+My+Profile!">
