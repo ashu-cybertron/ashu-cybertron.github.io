@@ -7,7 +7,7 @@ Ashutosh Kumar Sah
 DevOps Engineer
 ====================================
 
-DevOps Engineer @Kredifi | Ex - Teqfocus | Microsoft Certified: Az-900, Ai-900, Dp-900 | Oracle Cloud Infrastructure Certified Fundamental 2022 | Aviatrix Certified DevOps Cloud Engineer Love Traveling ❤️
+## DevOps Engineer | 3x Microsoft Certified: Az-900, Ai-900, Dp-900 | Oracle Cloud Infrastructure Certified Fundamental 2022 | Aviatrix Certified DevOps Cloud Engineer Love Traveling ❤️
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Connect with Me! 🌐
 
