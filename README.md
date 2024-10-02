@@ -19,8 +19,9 @@ DevOps Engineer
 [![Blogspot](https://img.icons8.com/color/48/000000/blogger.png)](https://ashu-cybertron.blogspot.com/)
 [![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/ashutosh.kumarsah.3344)
 [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/thedevopsdiplomat?igsh=NTlmdTYybTlicWM0)
-[![Portfolio](https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-portfolio-freelance-flatart-icons-outline-flatarticons.png)](https://ashu-cybertron.github.io/)
+[![Portfolio](https://img.icons8.com/fluency/48/000000/internet.png)](https://ashu-cybertron.github.io/)
 [![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/918294489292)
+
 
 
 
