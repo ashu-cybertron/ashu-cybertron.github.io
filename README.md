@@ -11,16 +11,17 @@ DevOps Engineer
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Connect with Me! 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashutosh--k1-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashutosh-k1)
-[![Gmail](https://img.shields.io/badge/Gmail-anandashtuosh803@gmail.com-red?style=flat&logo=gmail)](https://mail.google.com/mail/u/0/?fs=1&to=anandashtuosh803@gmail.com&su=SUBJECT&body=BODY&tf=cm)
-[![GitHub](https://img.shields.io/badge/GitHub-ashu--cybertron-black?style=flat&logo=github)](https://github.com/ashu-cybertron)
-[![Medium](https://img.shields.io/badge/Medium-ashutosh--k1-green?style=flat&logo=medium)](https://ashutosh-k1.medium.com)
-[![X (Twitter)](https://img.shields.io/badge/Twitter-Ashutos10759591-blue?style=flat&logo=twitter)](https://x.com/Ashutos10759591)
-[![Blogspot](https://img.shields.io/badge/Blogspot-ashu--cybertron-orange?style=flat&logo=blogger)](https://ashu-cybertron.blogspot.com/)
-[![Facebook](https://img.shields.io/badge/Facebook-ashutosh.kumarsah.3344-1877F2?style=flat&logo=facebook)](https://www.facebook.com/ashutosh.kumarsah.3344)
-[![Instagram](https://img.shields.io/badge/Instagram-thedevopsdiplomat-ff69b4?style=flat&logo=instagram)](https://www.instagram.com/thedevopsdiplomat?igsh=NTlmdTYybTlicWM0)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashu--cybertron.github.io-9cf?style=flat&logo=google-chrome)](https://ashu-cybertron.github.io/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=flat&logo=whatsapp)](https://wa.me/918294489292)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/ashutosh-k1)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](https://mail.google.com/mail/u/0/?fs=1&to=anandashtuosh803@gmail.com&su=SUBJECT&body=BODY&tf=cm)
+[![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)](https://github.com/ashu-cybertron)
+[![Medium](https://img.icons8.com/ios-filled/50/000000/medium-monogram.png)](https://ashutosh-k1.medium.com)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://x.com/Ashutos10759591)
+[![Blogspot](https://img.icons8.com/color/48/000000/blogger.png)](https://ashu-cybertron.blogspot.com/)
+[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/ashutosh.kumarsah.3344)
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/thedevopsdiplomat?igsh=NTlmdTYybTlicWM0)
+[![Portfolio](https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/external-portfolio-freelance-flatart-icons-outline-flatarticons.png)](https://ashu-cybertron.github.io/)
+[![WhatsApp](https://img.icons8.com/color/48/000000/whatsapp--v1.png)](https://wa.me/918294489292)
+
 
 
 
